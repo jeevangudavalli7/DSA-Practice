@@ -7,10 +7,10 @@
 
 | Difficulty | Target | Solved |
 |------------|--------|--------|
-| 🟢 Easy    | 70     | 0      |
+| 🟢 Easy    | 70     | 1      |
 | 🟡 Medium  | 180    | 0      |
 | 🔴 Hard    | 20–50  | 0      |
-| **Total**  | **270+** | **0** |
+| **Total**  | **270+** | **1** |
 
 > **Note:** The targets above are long-term goals. The problems listed below are a curated starter set — more will be added progressively.
 
