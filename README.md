@@ -51,7 +51,7 @@ DSA-Practice/
 # 🟢 Easy Problems
 
 ## Arrays
-- [ ] Two Sum (#1)
+- [x] Two Sum (#1)
 - [ ] Remove Duplicates from Sorted Array (#26)
 - [ ] Remove Element (#27)
 - [ ] Search Insert Position (#35)
