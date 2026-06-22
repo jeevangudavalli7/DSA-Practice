@@ -68,7 +68,7 @@ DSA-Practice/
 - [ ] Running Sum of 1D Array 
 
 ## Strings
-- [ ] Longest Common Prefix 
+- [x] Longest Common Prefix 
 - [ ] Valid Parentheses 
 - [ ] Implement strStr / Find Index of First Occurrence 
 - [ ] Length of Last Word 
