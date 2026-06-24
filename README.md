@@ -83,7 +83,7 @@ DSA-Practice/
 - [ ] Detect Capital (#520)
 
 ## Linked List
-- [ ] Merge Two Sorted Lists (#21)
+- [x] Merge Two Sorted Lists (#21)
 - [ ] Linked List Cycle (#141)
 - [ ] Reverse Linked List (#206)
 - [ ] Palindrome Linked List (#234)
