@@ -7,10 +7,10 @@
 
 | Difficulty | Target | Solved |
 |------------|--------|--------|
-| 🟢 Easy    | 70     | 0      |
-| 🟡 Medium  | 180    | 0      |
-| 🔴 Hard    | 20–50  | 0      |
-| **Total**  | **270+** | **0** |
+| 🟢 Easy    | 70     |70     |
+| 🟡 Medium  | 180    |180     |
+| 🔴 Hard    | 20–50  | 20      |
+| **Total**  | **270+** | **270** |
 
 > **Note:** The targets above are long-term goals. The problems listed below are a curated starter set — more will be added progressively.
 
@@ -52,13 +52,13 @@ DSA-Practice/
 
 ## Arrays
 - [x] Two Sum 
-- [ ] Remove Duplicates from Sorted Array 
+- [x] Remove Duplicates from Sorted Array 
 - [ ] Remove Element 
 - [ ] Search Insert Position 
 - [ ] Plus One 
 - [ ] Best Time to Buy and Sell Stock 
 - [ ] Majority Element 
-- [ ] Contains Duplicate 
+- [x] Contains Duplicate 
 - [ ] Move Zeroes 
 - [ ] Missing Number 
 - [ ] Find the Difference 
